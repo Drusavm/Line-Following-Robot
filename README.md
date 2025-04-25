@@ -22,8 +22,8 @@ Arduino-based robot for detecting and following a black line using infrared sens
 
 ## 📁 Project Structure
 
-- `code/` — Arduino source code.
-- `docs/` — Documentation and circuit diagram.
-- `media/` — Photos and videos.
-- `Certificate/` — Official course completion certificate from the Robotics and Soft Technologies Research Center, Islamic Azad University of Tabriz.
+- `code` — Arduino source code.
+- `docs` — Documentation and circuit diagram.
+- `media` — Photos and videos.
+- `Certificate` — Official course completion certificate from the Robotics and Soft Technologies Research Center, Islamic Azad University of Tabriz.
 - `README.md` — Project overview and instructions.
